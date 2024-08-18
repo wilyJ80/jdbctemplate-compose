@@ -34,6 +34,8 @@
     - [ ] Static and templates?
 - [ ] Add tests?
 - [ ] Deploy?
+- [ ] Remove Autowired?
+- [ ] try catch in the service layer?
 
 # Things I learned:
 
