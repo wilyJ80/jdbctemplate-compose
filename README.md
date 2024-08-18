@@ -1,6 +1,6 @@
 # Requirements:
 
-    - Docker, Docker Compose
+- Docker, Docker Compose
 
 # Usage:
 
