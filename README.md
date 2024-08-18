@@ -4,11 +4,11 @@
 
 - Usage:
 
-    > [!TIP]
-    > 
-    > Create a .env file with the information in [example-env.md](example-env.md), then run
-    >
-    > `sudo docker compose up`
+> [!TIP]
+> 
+> Create a .env file with the information in [example-env.md](example-env.md), then run
+>
+> `sudo docker compose up`
 
     - No need to manually compile. Just run the container, because it compiles and runs.
     - You might need to remove the image in case you need to change something. .-.
