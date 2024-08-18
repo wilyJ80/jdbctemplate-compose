@@ -4,7 +4,7 @@
 
 - Usage:
 
-    - > [!TIP]
+    > [!TIP]
     > 
     > Create a .env file with the information in [example-env.md](example-env.md), then run
     >
