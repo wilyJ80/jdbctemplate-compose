@@ -33,3 +33,4 @@
 - [ ] Add view?
     - [ ] Static and templates?
 - [ ] Add tests?
+- [ ] Deploy?
