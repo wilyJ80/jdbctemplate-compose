@@ -37,6 +37,7 @@
 - [ ] Remove Autowired?
 - [ ] try catch in the service layer?
 - [ ] change application.properties url?
+- [ ] lists vs hashmaps
 
 # Things I learned:
 
