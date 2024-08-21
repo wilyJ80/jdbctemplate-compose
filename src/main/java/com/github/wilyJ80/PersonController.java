@@ -22,8 +22,8 @@ public class PersonController {
 	}
 
 	@GetMapping("/person")
-	public ResponseEntity<List<String>> getAllPersons() {
-		List<String> persons = personService.getAllPersons();
+	public ResponseEntity<List<Person>> getAllPersons() {
+		List<Person> persons = personService.getAllPersons();
 
 		return ResponseEntity.ok(persons);
 	}
