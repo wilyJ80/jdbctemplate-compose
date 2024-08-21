@@ -1,5 +1,5 @@
-CREATE DATABASE person;
-USE person;
+CREATE DATABASE db;
+USE db;
 
 CREATE TABLE person (
 	id INTEGER PRIMARY KEY AUTO_INCREMENT,
@@ -8,4 +8,4 @@ CREATE TABLE person (
 
 INSERT INTO person (
 	name
-	) VALUES ('Artorias the Abysswalker'), ('Yuria of Londor'), ('Yoel of Londor'), ('Dragonslayer Armor'), ('King Vendrick'), ('Darklurker'), ('Nashandra'), ('Navlaan'), ('Lonesome Gavlan');
+	) VALUES ('Victor'), ('Hugo'), ('Joao'), ('Daniel'), ('Maria'), ('Alysson'), ('Lucas'), ('Rafael'), ('Debora'), ('Leandro'), ('Gerusa'), ('Janaina'), ('Marta');
