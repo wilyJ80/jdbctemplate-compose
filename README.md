@@ -35,7 +35,7 @@
 - [ ] Add tests?
 - [ ] Deploy?
 - [ ] Remove Autowired?
-- [ ] try catch in the service layer?
+- [X] try catch in the service layer?
 - [X] change application.properties url?
 - [ ] lists vs hashmaps
 
