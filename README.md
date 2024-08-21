@@ -6,7 +6,7 @@
 
 > [!TIP]
 > 
-> Create a .env file with the information in [example-env.md](example-env.md), then run
+> Create a .env file by renaming [example-env.md](example-env.md), then run
 >
 > `sudo docker compose up --build`
 
