@@ -20,8 +20,6 @@ public class PersonService {
 
 	public List<Person> getAllPersons() {
 		try {
-			// Had to update this after changing the person schema. It might be good to use
-			// a view to avoid future changes!
 			String sql = "SELECT name, age FROM person";
 			return jdbcTemplate.query(sql,
 					(rs, rowNum) -> new Person(rs.getString("name"), rs.getInt("age")));

@@ -23,7 +23,7 @@
 
 # TODO:
 
-- [ ] Return Person object instead of person name .-.
+- [X] Return Person object instead of person name .-.
 - [ ] Adminer database web UI
 - [ ] Add more features and endpoints to example project
 - [ ] Do not login to the database as root?
